@@ -1,0 +1,75 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\title{FORM 4N CLASS ASSIGNMENT -- MATRICES}
+\date{May 16, 2025}
+\author{}
+
+\begin{document}
+
+\maketitle
+
+\noindent
+\textbf{NAME:} \underline{\hspace{8cm}}
+
+\section*{Problem 1}
+Using the unit square, describe the transformations represented by each of the following matrices:
+
+\begin{enumerate}
+    \item[(a)] $\begin{pmatrix} 1 & 3 \\ 0 & 1 \end{pmatrix}$
+    
+    \vspace{2cm}
+    
+    \item[(b)] $\begin{pmatrix} 2 & 0 \\ 0 & 2 \end{pmatrix}$
+    
+    \vspace{2cm}
+\end{enumerate}
+
+\section*{Problem 2}
+A transformation is described by the matrix $\begin{pmatrix} a & b \\ c & d \end{pmatrix}$. The images of points $P(4,3)$ and $Q(2,2)$ under the transformation are $P'(-4,3)$ and $Q'(-2,2)$ respectively.
+
+\begin{enumerate}
+    \item[(a)] Find the values of $a$, $b$, $c$ and $d$.
+    
+    \vspace{3cm}
+    
+    \item[(b)] Describe the transformation fully.
+    
+    \vspace{3cm}
+\end{enumerate}
+
+\newpage
+
+\noindent
+\textbf{NAME:} \underline{\hspace{8cm}}
+
+\section*{Problem 1}
+Using the unit square, describe the transformations represented by each of the following matrices:
+
+\begin{enumerate}
+    \item[(a)] $\begin{pmatrix} 1 & 3 \\ 0 & 1 \end{pmatrix}$
+    
+    \vspace{2cm}
+    
+    \item[(b)] $\begin{pmatrix} 2 & 0 \\ 0 & 2 \end{pmatrix}$
+    
+    \vspace{2cm}
+\end{enumerate}
+
+\section*{Problem 2}
+A transformation is described by the matrix $\begin{pmatrix} a & b \\ c & d \end{pmatrix}$. The images of points $P(4,3)$ and $Q(2,2)$ under the transformation are $P'(-4,3)$ and $Q'(-2,2)$ respectively.
+
+\begin{enumerate}
+    \item[(a)] Find the values of $a$, $b$, $c$ and $d$.
+    
+    \vspace{3cm}
+    
+    \item[(b)] Describe the transformation fully.
+    
+    \vspace{3cm}
+\end{enumerate}
+
+\end{document}
